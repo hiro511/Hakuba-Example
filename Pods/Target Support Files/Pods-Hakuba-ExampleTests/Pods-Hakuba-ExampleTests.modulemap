@@ -1,0 +1,6 @@
+framework module Pods_Hakuba_ExampleTests {
+  umbrella header "Pods-Hakuba-ExampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
